@@ -12,7 +12,7 @@
       Immerse yourself in luxury at our beautiful condo. <br>Book now for an unforgettable experience!
     </p>
     <!-- Call-to-action button -->
-    <a href="#contact" class="px-6 py-3 bg-blue-500 rounded-lg text-white hover:bg-blue-600 transition duration-300 inline-block">
+    <a href="/contact" class="px-6 py-3 bg-blue-500 rounded-lg text-white hover:bg-blue-600 transition duration-300 inline-block">
       Book Now
     </a>
   </section>

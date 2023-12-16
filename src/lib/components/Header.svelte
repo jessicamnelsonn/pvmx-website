@@ -1,6 +1,6 @@
 <script>
   const navItems = [
-    { name: 'Home', href: '/home' },
+    { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about' },
     { name: 'Explore', href: '/explore' },
     { name: 'Contact', href: '/contact' },

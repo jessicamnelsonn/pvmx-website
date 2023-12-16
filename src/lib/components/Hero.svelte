@@ -3,7 +3,7 @@
   <img src="/images/pvmx-hero.jpg" class="w-full h-full object-cover" alt="Condo in Mexico">
 
   <!-- Text section over the image with a semi-transparent background -->
-  <section class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white bg-black bg-opacity-30 p-8 rounded-lg max-w-md mx-auto">
+  <section class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white bg-black bg-opacity-30 p-8 rounded-lg max-w-[65ch] mx-auto">
     <!-- Dynamic greeting text with a gradient background -->
     <h1 class="text-3xl md:text-4xl lg:text-5xl mb-4">
       Discover Your Perfect Getaway in Mexico

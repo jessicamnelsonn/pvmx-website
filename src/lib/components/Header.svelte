@@ -8,15 +8,15 @@
 </script>
 
 <header>
-  <nav class="bg-[#cee3c1] py-4 flex justify-end">
-    <div class="flex-shrink-0 ml-4">
-      <img src="your-logo.png" alt="Logo" class="h-8 w-8">
+  <nav class="bg-[#cee3c1] py-4 flex flex-wrap items-center justify-between">
+    <div class="flex items-center">
+      <img src="your-logo.png" alt="Logo" class="h-8 w-8 mr-4">
     </div>
 
-    <ul class="flex items-end space-x-5 md:space-x-8 ml-auto">
+    <ul class="flex items-end space-x-2 md:space-x-5 lg:space-x-8">
       {#each navItems as { name, href }}
         <li>
-          <a href={href} class="text-lg md:text-xl lg:text-2xl text-green-900 hover:text-green-600 hover:underline transition-colors duration-300 px-3 py-2 rounded-md focus:outline-none focus:shadow-outline">
+          <a href={href} class="text-base md:text-lg lg:text-xl text-green-900 hover:text-green-600 hover:underline transition-colors duration-300 px-2 md:px-3 py-2 rounded-md focus:outline-none focus:shadow-outline">
             {name}
           </a>
         </li>

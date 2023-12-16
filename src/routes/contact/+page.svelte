@@ -1,4 +1,4 @@
-<section class="flex justify-center items-center flex-col min-h-screen bg-cover bg-center" style="background-image: url('images/pvmx-contact.jpg');">
+<section class="flex justify-center items-center flex-col min-h-screen bg-center" style="background-image: url('images/pvmx-contact.jpg');">
   <div class="container mx-auto mt-8 p-8 bg-white rounded-lg shadow-lg max-w-md">
     <h1 class="text-3xl font-semibold text-center mb-6 text-teal-600">Contact Us</h1>
 
